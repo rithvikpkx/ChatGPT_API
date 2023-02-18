@@ -1,0 +1,3 @@
+This is a simple python integration into the ChatGPT API service
+The free trial version of the API was used, therefore response times and capabilities are limited
+It was made to test out the integration and how it worked
